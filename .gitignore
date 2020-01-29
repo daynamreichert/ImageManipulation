@@ -1,3 +1,8 @@
 *.metadata**
+*.idea**
+*.settings**
+*.classpath
+*.project
+*.recommenders**
 *.jpg
 *.png
